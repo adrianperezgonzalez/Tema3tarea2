@@ -1,0 +1,6 @@
+D:\adri\DAM\Entornos de Desarrollo\entornos_bloque3aev2\bin\Debug\entornos_bloque3aev2.exe.config
+D:\adri\DAM\Entornos de Desarrollo\entornos_bloque3aev2\bin\Debug\entornos_bloque3aev2.exe
+D:\adri\DAM\Entornos de Desarrollo\entornos_bloque3aev2\bin\Debug\entornos_bloque3aev2.pdb
+D:\adri\DAM\Entornos de Desarrollo\entornos_bloque3aev2\obj\Debug\entornos_bloque3aev2.csprojAssemblyReference.cache
+D:\adri\DAM\Entornos de Desarrollo\entornos_bloque3aev2\obj\Debug\entornos_bloque3aev2.exe
+D:\adri\DAM\Entornos de Desarrollo\entornos_bloque3aev2\obj\Debug\entornos_bloque3aev2.pdb
