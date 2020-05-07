@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_BizTests\\entonos_BizTests.csproj": {}
+    "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_BizTests\\entonos_BizTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_BizTests\\entonos_BizTests.csproj": {
+    "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_BizTests\\entonos_BizTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_BizTests\\entonos_BizTests.csproj",
+        "projectUniqueName": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_BizTests\\entonos_BizTests.csproj",
         "projectName": "entonos_BizTests",
-        "projectPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_BizTests\\entonos_BizTests.csproj",
+        "projectPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_BizTests\\entonos_BizTests.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_BizTests\\obj\\",
+        "outputPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_BizTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj"
+              "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj": {
+                "projectPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj": {
+    "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj",
+        "projectUniqueName": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj",
         "projectName": "entonos_Biz",
-        "projectPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj",
+        "projectPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\obj\\",
+        "outputPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

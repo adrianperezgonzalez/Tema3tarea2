@@ -12,7 +12,7 @@ namespace entornos_bloque3aev2
     /// </summary>
     public class CosasDeFechas
     {
-        private DateTime cumpleaños;
+        private DateTime cumpleanyos;
         /// <summary>
         /// Este metodo sirve para que te diga el dia de la semana que es dependiendo la fecha pasada por parametro
         /// </summary>
@@ -20,11 +20,12 @@ namespace entornos_bloque3aev2
         /// <returns>
         /// un string con el dia de la semana en español
         /// </returns>
-        public DateTime Cumpleaños { get; set; }
-        #region
+        public DateTime Cumpleanyos { get; set; }
+
+        #region Cosas de Fechas
         public CosasDeFechas(DateTime dates)
         {
-            cumpleaños = dates;
+            cumpleanyos = dates;
         }
         public string DiaSemana(DateTime fecha)
         {
@@ -43,7 +44,7 @@ namespace entornos_bloque3aev2
         public int CuantoFalta()
         {
             DateTime hoy= DateTime.Today;
-            DateTime proxima = cumpleaños.AddYears(hoy.Year - cumpleaños.Year);
+            DateTime proxima = cumpleanyos.AddYears(hoy.Year - cumpleanyos.Year);
 
             if (proxima < hoy)
                 proxima = proxima.AddYears(1);

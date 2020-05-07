@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj",
+      "projectUniqueName": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj",
       "projectName": "entonos_Biz",
-      "projectPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj",
+      "projectPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\entonos_Biz.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\entonos_Biz\\obj\\",
+      "outputPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\entonos_Biz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

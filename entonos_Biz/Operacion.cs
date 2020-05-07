@@ -30,7 +30,7 @@ namespace entornos_bloque3aev2
         }
 
         /// <summary>
-        /// Devuelve la resta el numero menor del mayor y muestra el dia de la semana actual
+        /// Devuelve la resta el numero menor del mayor
         /// </summary>
         /// <returns></returns>
         #region
@@ -38,8 +38,6 @@ namespace entornos_bloque3aev2
         {
             if (CualEsMayor == this.num1) { return this.num1 -= this.num2; }
             else { return this.num2 -= this.num1; }
-            // Es necesario llamar al metodo de la clase CosasDeFechas 
-            // para mostrar el dia de la semana actual (Jordi)
         }
 
         /// <summary>

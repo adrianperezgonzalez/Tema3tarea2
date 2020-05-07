@@ -9,28 +9,51 @@ namespace entornos_bloque3aev2.Tests
     [TestClass()]
     public class CadenaTests
     {
-        [TestMethod()]
-        public void CadenaTest()
-        {
-            Assert.Fail();
-        }
 
         [TestMethod()]
         public void ExtraerPrimerCaracterTest()
         {
-            Assert.Fail();
+            // Arrange
+            var cad = new Cadena("AdrianPerezGonzalez");
+            cad.CadenaTexto = "AdrianPerezGonzalez";
+
+            var expected = "A";
+
+            // Act
+            var actual = cad.ExtraerPrimerCaracter();
+
+            // Assert
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod()]
         public void ExtraerUltimoCaracterTest()
         {
-            Assert.Fail();
+            // Arrange
+            var cad = new Cadena("AdrianPerezGonzalez");
+
+            var expected = "z";
+
+            // Act
+            var actual = cad.ExtraerUltimoCaracter();
+
+            // Assert
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod()]
         public void ExtraerCaracterConcretoTest()
         {
-            Assert.Fail();
+            // Arrange
+            var cad = new Cadena("AdrianPerezGonzalez");
+
+            var expected = "P";
+
+            // Act
+            var actual = cad.ExtraerCaracterConcreto(6);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
         }
     }
 }

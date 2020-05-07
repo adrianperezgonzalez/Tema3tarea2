@@ -8,11 +8,13 @@ namespace entornos_bloque3aev2
 {
     public class Cadena
     {
+        #region Variables y atributos
         // Declaracion de variables
         private string cadenaTexto;
 
         // Atributos (no se si necesitas esto)
         public string CadenaTexto { get { return cadenaTexto; } set { cadenaTexto = value; } }
+        #endregion
 
         // Constructor
         public Cadena(string cadena)
@@ -20,11 +22,12 @@ namespace entornos_bloque3aev2
             this.cadenaTexto = cadena;
         }
 
+
+        #region Metodos de Caracteres
         /// <summary>
         /// Devuelve el primer caracter de la cadena de texto
         /// </summary>
         /// <returns></returns>
-        #region 
         public char ExtraerPrimerCaracter()
         {
             return this.cadenaTexto[0];

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_CommonTests\\Entornos_CommonTests.csproj": {}
+    "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_CommonTests\\Entornos_CommonTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_CommonTests\\Entornos_CommonTests.csproj": {
+    "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_CommonTests\\Entornos_CommonTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_CommonTests\\Entornos_CommonTests.csproj",
+        "projectUniqueName": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_CommonTests\\Entornos_CommonTests.csproj",
         "projectName": "Entornos_CommonTests",
-        "projectPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_CommonTests\\Entornos_CommonTests.csproj",
+        "projectPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_CommonTests\\Entornos_CommonTests.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_CommonTests\\obj\\",
+        "outputPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_CommonTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj"
+              "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj": {
+                "projectPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj": {
+    "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj",
+        "projectUniqueName": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj",
         "projectName": "Entornos_Common",
-        "projectPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj",
+        "projectPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_Common\\Entornos_Common.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Downloads\\Tema3tarea2-master\\Entornos_Common\\obj\\",
+        "outputPath": "D:\\adri\\DAM\\Entornos de Desarrollo\\adriperez_tarea3_tarea1conjordi\\Tema3tarea2-master\\Entornos_Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
